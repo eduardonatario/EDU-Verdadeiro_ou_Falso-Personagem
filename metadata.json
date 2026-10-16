@@ -1,0 +1,8 @@
+{
+  "name": "EDU-Verdadeiro_ou_Falso-Personagem",
+  "description": "Crie e jogue quizzes interativos de Verdadeiro ou Falso com perguntas personalizadas, mensagens de acerto e feedbacks de erro explicativos, e uma personagem acompanhando e dando feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
